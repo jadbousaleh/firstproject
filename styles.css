@@ -1,0 +1,43 @@
+h1{
+    color:#333333;
+}
+h2{
+    color:#666666;
+}
+h3{
+    color:blueviolet;
+}
+#yellowparagraph {
+    color: blue;
+    font-size: 40px;
+}
+#green
+{
+    color:green;
+}
+body
+{
+    text-align: center;
+    padding-top:60px;
+}
+#paragraph1
+{
+    margin-top:20px;
+}
+.container
+{
+    margin-top:30px;
+}
+.row
+{
+    margin-top:30px;
+}
+p
+{
+    margin-top:20px;
+}
+a:hover
+{
+    text-decoration: none;
+    color:black
+}
